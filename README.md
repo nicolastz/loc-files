@@ -10,7 +10,7 @@ I created this small code when you need to create bunch of loc files for your si
 
 2. You'll get this message or other version confirmation
 
-![Python version](./documentation/python-version.png "Python version")
+    ![Python version](./documentation/python-version.png "Python version")
 
 3. If you don't get this message, you need to download Python from its [offical site](https://www.python.org/downloads/)
 
@@ -24,7 +24,7 @@ I created this small code when you need to create bunch of loc files for your si
 
     2. You have to edit `dest_folder` with the same as `source_folder`
 
-    ![Python edit](./documentation/python-edit.png "Python edit")
+        ![Python edit](./documentation/python-edit.png "Python edit")
 
 3. Save your changes
 
@@ -32,11 +32,11 @@ I created this small code when you need to create bunch of loc files for your si
 
 1. Open your terminal and navigate to the folder where you have the .py file with `cd`
 
-![cd Navigation](./documentation/cd-navigation.png "cd Navigation")
+    ![cd Navigation](./documentation/cd-navigation.png "cd Navigation")
 
 2. When you're on the folder, you can run the code. You have to type `python loc-files.py` and press Enter
 
-![Run python](./documentation/run-python.png "Run Python")
+    ![Run python](./documentation/run-python.png "Run Python")
 
 3. If you don't get any message, it worked and you should have your loc files next to your original files
 
