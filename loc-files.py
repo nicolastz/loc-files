@@ -11,7 +11,7 @@ def copy_files(source_folder, new_extension):
                 with open(new_file_path, 'w'):
                     pass
 
-source_folder = "D:/Desktop/temp/prueba"
-dest_folder = "D:/Desktop/temp/prueba"
+source_folder = "/your-folder"
+dest_folder = "/your-folder"
 new_extension = ".loc"
 copy_files(source_folder, new_extension)
